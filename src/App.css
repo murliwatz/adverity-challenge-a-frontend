@@ -1,0 +1,64 @@
+
+
+.App-header {
+  margin:auto;
+  width: 100%;
+  background: #006;
+  color: #fff;
+  font-size: 1.7em;
+  padding: .6em;
+  box-sizing: border-box;
+}
+
+.App-content {
+  max-width: 960px;
+  margin: 3em auto;
+  text-align: center;
+}
+
+.keywords span {
+  border-radius: 10px;
+  background: #eee;
+  border: #999 solid 1px;
+  padding: 0.5em;
+  display: inline-block;
+  font-size: 0.8em;
+  margin: 0.5em;
+  margin-bottom: 0;
+  font-weight: bold;
+  color:#666;
+}
+
+.keywords span button {
+  background: transparent;
+  border:none;
+  cursor: pointer;
+  color:#666;
+}
+
+.btn {
+  padding: 1em;
+  font-weight: bold;
+  border-radius: 10px;
+  border:none;
+  color:#fff;
+  cursor: pointer;
+}
+
+.btn-add {
+  padding: 0.5em;
+  margin-left: 1em;
+  background: #090;
+}
+
+.btn-show {
+  margin-top: 1em; 
+  background: #900;
+}
+
+.txt-keywords {
+  border:#ccc solid 1px;
+  padding: 0.5em;
+  border-radius: 10px;
+}
+
